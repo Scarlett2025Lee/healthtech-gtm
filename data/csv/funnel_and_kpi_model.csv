@@ -1,0 +1,11 @@
+Stage,Base-Case Volume,Conversion from Prior Stage,What It Means,KPI,,Example 4-Week Provider Pilot,,,
+Prospects identified,150,,Partner universe created,Partner universe size,,Metric,Target,Why It Matters,Decision Rule
+High / medium priority prospects,60,=B3/B2,Fit scoring filters the list,Qualification rate,,Patient exposures,500,Enough traffic for an initial directional test,"If too low, distribution method is weak"
+Prospects contacted,40,=B4/B3,First outbound cohort,Outreach coverage,,Referral-link clicks,75,Measures provider-to-patient interest,>=15% click rate
+Positive replies,15,=B5/B4,Prospects interested enough to engage,Response rate,,Signups,35,Measures landing-page/value-prop conversion,>=40% of clicks
+Discovery calls,10,=B6/B5,Conversations to validate pain and fit,Reply-to-meeting conversion,,Activated users,20,Measures whether referred users get real value,>=50% of signups
+Qualified partners,6,=B7/B6,Confirmed fit + realistic partnership path,Qualification rate after discovery,,Partner continuation,Yes,Tests whether the partner itself sees value,Continue / expand only if partner wants to repeat
+Pilot partners,3,=B8/B7,Partners that agree to launch a test,Pilot conversion,,,,,
+Ongoing partnerships,2,=B9/B8,Pilots worth continuing,Pilot retention,,,,,
+Monthly referred users,120,,Illustrative total from activated partners,Referral volume,,,,,
+Activated users,72,=B11/B10,Users who complete meaningful onboarding/use,User activation rate,,,,,
